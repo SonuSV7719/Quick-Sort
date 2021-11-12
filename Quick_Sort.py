@@ -11,7 +11,7 @@ def createArray(n):
         array.append(percentage)
     return array
 
-# Bubble Sort:------------------------------------------------------------
+# Quick Sort:------------------------------------------------------------
 
 def quickSort(array, start, end):
     if start < end:
